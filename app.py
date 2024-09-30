@@ -249,4 +249,4 @@ if uploaded_file is not None:
         logger.error(f"An error occurred: {str(e)}")
         st.error(f"An error occurred: {str(e)}")
 
-st.write("Note: This is for educational purposes only. Always consult with a medical professional for actual diagnosis.")
+st.write("Note: This is for fun just to try to mess with your brain.")
